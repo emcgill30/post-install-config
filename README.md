@@ -23,9 +23,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Item 1
 - Item 2
-- Item 3
-- Item 4
-- Item 5
+
+
+
 
 <h2>Installation Steps</h2>
 
@@ -33,22 +33,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/IaBEj8n.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-This will be the post-install part of the osticket lab. We're going to configure rolls. Rolls are permissions granted to agents per Department that they have access to. Create roll supreme admin. We will have a roll that can pretty much do everything.
+This will be the post-install part of the osticket lab. We're going to configure rolls. Rolls are permissions granted to agents per Department that they have access to. Create roll supreme admin. We will have a roll that can pretty much do everything. Tickets are routed through department. Go to admin panel, agents, departments. By default there is maintenance, and Support. You can come back to this if you want to configure SLA's.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Tm1V0rA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next, we can configure "teams." We can make a new team called, level two support. We're to configure it to where anyone can create tickets even if they're not a user in the system. Admin panel>settings>user settings. Next we're going to configure agents, and how you do that is, go to agents, add new. Add whatever name you want to. SLA's can be configured by going to, Admin Panel, Manage, SLA. You and can configure the the severity and the time in which it needs to be completed
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
