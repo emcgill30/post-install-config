@@ -33,7 +33,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/IaBEj8n.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-This will now be the post-install part of the osticket lab
+This will be the post-install part of the osticket lab. We're going to configure rolls. Rolls are permissions granted to agents per Department that they have access to. Create roll supreme admin. We will have a roll that can pretty much do everything.
 </p>
 <br />
 
